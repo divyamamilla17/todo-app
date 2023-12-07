@@ -1,0 +1,21 @@
+
+body{
+    display:flex ;
+    flex-direction:column;
+    align-items: center;
+    background-color: blueviolet;
+    margin-top: 5em;
+  }
+  #text-box{
+    width:300px;
+    padding:1em;
+    border: 2px solid rgb(197, 197, 201);
+    border-radius: 10px;
+  }
+.checked{
+    text-decoration: line-through;
+}
+
+.fa-pencil{
+  margin-left: 4em;
+}
